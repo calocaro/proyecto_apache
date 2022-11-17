@@ -1,4 +1,3 @@
-# proyectoApache
 # ProyectoApache
 
 ## Imágenes necesarias
